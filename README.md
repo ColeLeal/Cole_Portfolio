@@ -1,2 +1,2 @@
 # Cole_Portfolio
-Example data science portfolio
+Data science portfolio
