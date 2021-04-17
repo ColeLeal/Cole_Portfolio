@@ -8,4 +8,4 @@ the detection of credit card fraud.
 *   Then I went into spot checking different types of models from ensemble to deep learning to see which models are viable in solving our problem.
 *   I then attempted to remedy the unbalanced nature of the data set via over and undersampling methods.
 *   Lastly I tuned the two best models from spot checking and came to the final/settled result.
-
+![](images/fraud_cm.png)
