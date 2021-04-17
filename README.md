@@ -1,7 +1,7 @@
 # Cole_Portfolio
 Data science portfolio
 
-# Project 1: Fraud_Detection_Project
+# [Project 1: Fraud_Detection_Project](https://github.com/ColeLeal/Fraud_Detection_Project)
 Within this notebook I've sought to display a few data science skills on a binary classification data set involving 
 the detection of credit card fraud.
 *   I have displayed some quick EDA in the beginning so that we may grasp some understanding of the data set.
