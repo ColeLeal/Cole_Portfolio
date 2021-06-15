@@ -1,4 +1,4 @@
-# Cole_Portfolio
+# Cole's Portfolio
 Data science portfolio
 
 # [Project 1: Fraud_Detection_Project](https://github.com/ColeLeal/Fraud_Detection_Project)
